@@ -1,0 +1,3 @@
+bmi pro vysku 180 a vahu 76 je: 23 
+bmi pro vysku 190 a vahu 10 je: 2 
+bmi pro vysku 209 a vahu 290 je: 66 
